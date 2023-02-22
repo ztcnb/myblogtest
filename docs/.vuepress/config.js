@@ -1,6 +1,6 @@
 
 module.exports = {
-    // base: "/myblogtest/",
+     base: "/myblogtest/",
     themeConfig: {
         // lastUpdated: '更新时间',
         // logo: '/assets/img/logo.png',
